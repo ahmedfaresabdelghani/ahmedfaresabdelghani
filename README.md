@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Smart Greenhouse Project (Based on IoT)<br>in this Project we created our Drivers to provide communication between sensors ,<br>Microcontroller (ATmega 32), Wi-Fi Module (ESP 8266 (01)) , IoT Cloud (Blynk) to visualize these data<br>👯 I’m looking to collaborate on Automotive Projects + IoT projects<br>🌱 I’m currently learning (ARM , RTOS , Bootloader, Autosar).<br>⚡ Fun Facts : I love Reading , Origami , Online Games ,Creating Small Projects around me
+🔭 I’m currently working on Smart Greenhouse Project (Based on IoT)<br>in this Project we created our Drivers to provide communication between sensors ,<br>Microcontroller (ATmega 32), Wi-Fi Module (ESP 8266 (01)) , IoT Cloud (Blynk) to visualize these data<br>👯 I’m looking to collaborate on Automotive Projects + IoT projects<br>🌱 I’m currently learning (ARM , RTOS , Bootloader, Autosar).<br>⚡ Fun Facts : I love Reading , Origami ,Chess, Online Games ,Creating Small Projects around me
 
 
 ## 🌐 Socials:
